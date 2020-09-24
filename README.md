@@ -1,3 +1,3 @@
 # laravel-api-project
 
-A project to demonstrate building and consuming a RESTful API in Laravel PHP
+A project to demonstrate building a RESTful API in Laravel PHP
